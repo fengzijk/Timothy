@@ -3,8 +3,12 @@
 > java coding  
 
 
-- 🌐 个人博客：[fengzij](https://fengzijk.com/)
+- 🌐 个人博客：[fengzijk](https://fengzijk.com/)
 - 📫 联系邮箱：guozhifengvip@163.com
+
+<p align = "center">
+<img src = "https://user-images.githubusercontent.com/12505138/144262721-7210bae9-eddf-4a8c-b936-a44638061cc1.png">
+   </p>
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=fengzijk&count_private=true&show_icons=true&theme=tokyonight&line_height=40">
@@ -24,5 +28,4 @@
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=fengzijk&theme=redical" />
 
 
-![image](https://user-images.githubusercontent.com/12505138/144262338-3585cdc6-593e-42d2-abbc-492f0a0ccbbd.png)
 
