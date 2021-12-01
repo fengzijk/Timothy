@@ -1,16 +1,23 @@
-### Hi there 👋
+### fengzijk
 
-<!--
-**fengzijk/fengzijk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> java coding  
 
-Here are some ideas to get you started:
+- 🌐 个人博客：[小九的博客](https://fengzijk.com/)
+- 📫 联系邮箱：guozhifengvip@163.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=fengzijk&count_private=true&show_icons=true&theme=tokyonight&line_height=40">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=fengzijk&theme=tokyonight">
+</p>
+
+<p align = "center">
+<a href="https://github.com/fengzijk/Nine-chat-frontend">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fengzijk&repo=Nine-chat-frontend&theme=tokyonight" />
+</a>
+<a href="https://github.com/fengzijk/Nine-chat-backend">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fengzijk&repo=Nine-chat-backend&theme=tokyonight" />
+</a>
+</p>
+
+>>>>>>>>>>>>>>>>>>>>>>>> 
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=fengzijk&theme=redical" />
