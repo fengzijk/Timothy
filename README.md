@@ -1,7 +1,7 @@
 ### fengzijk
 
 > java coding  
-![logo_preview](https://user-images.githubusercontent.com/12505138/144261961-91643cbb-07af-4564-94df-5d88d3289b95.png)
+
 
 - 🌐 个人博客：[fengzij](https://fengzijk.com/)
 - 📫 联系邮箱：guozhifengvip@163.com
@@ -22,3 +22,7 @@
 
 >>>>>>>>>>>>>>>>>>>>>>>> 
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=fengzijk&theme=redical" />
+
+
+![image](https://user-images.githubusercontent.com/12505138/144262338-3585cdc6-593e-42d2-abbc-492f0a0ccbbd.png)
+
