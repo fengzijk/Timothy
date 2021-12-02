@@ -3,7 +3,7 @@
 > java coding  
 
 
-- 🌐 个人博客：[fengzijk](https://fengzijk.com/)
+- 🌐 个人博客：[fengzijk](https://fengzijk.cn/)
 - 📫 联系邮箱：guozhifengvip@163.com
 
 <p align = "center">
