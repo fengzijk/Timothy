@@ -20,7 +20,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fengzijk&repo=calf-cloud&theme=tokyonight" />
 </a>
 <a href="https://github.com/fengzijk/Nine-chat-backend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fengzijk&repo=redisson-spring-boot-starter&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fengzijk&repo=redisson-boot-starter&theme=tokyonight" />
 </a>
 </p>
 
