@@ -16,10 +16,10 @@
 </p>
 
 <p align = "center">
-<a href="https://github.com/fengzijk/Nine-chat-frontend">
+<a href="https://github.com/fengzijk/calf-cloud">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fengzijk&repo=calf-cloud&theme=tokyonight" />
 </a>
-<a href="https://github.com/fengzijk/Nine-chat-backend">
+<a href="https://github.com/fengzijk/redisson-boot-starter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fengzijk&repo=redisson-boot-starter&theme=tokyonight" />
 </a>
 </p>
