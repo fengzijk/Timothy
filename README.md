@@ -26,8 +26,8 @@
 <a href="https://github.com/fengzijk/response-boot-starter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fengzijk&repo=response-boot-starter&theme=tokyonight" />
 </a>
-<a href="https://github.com/fengzijk/response-boot-starter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fengzijk&repo=response-boot-starter&theme=tokyonight" />
+<a href="https://github.com/fengzijk/sign">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fengzijk&repo=sign&theme=tokyonight" />
 </a>
 </p>
 
