@@ -6,9 +6,6 @@
 - 🌐 个人博客：[fengzijk](https://fengzijk.cn/)
 - 📫 联系邮箱：guozhifengvip@163.com
 
-<p align = "center">
-<img src = "https://user-images.githubusercontent.com/12505138/144262721-7210bae9-eddf-4a8c-b936-a44638061cc1.png">
-   </p>
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=fengzijk&count_private=true&show_icons=true&theme=tokyonight&line_height=40">
