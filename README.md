@@ -34,7 +34,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fengzijk&repo=sign&theme=tokyonight" />
 </a>
 
-fzdns
 <a href="https://github.com/fengzijk/fzdns">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fengzijk&repo=fzdns&theme=tokyonight" />
 </a>
