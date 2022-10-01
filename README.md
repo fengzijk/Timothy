@@ -18,8 +18,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fengzijk&repo=calf-cloud&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/fengzijk/short-url">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fengzijk&repo=short-url&theme=tokyonight" />
+<a href="https://github.com/fengzijk/go-psmp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fengzijk&repo=go-psmp&theme=tokyonight" />
 </a>
   
 <a href="https://github.com/fengzijk/redisson-boot-starter">
