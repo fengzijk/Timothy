@@ -2,11 +2,6 @@
 
 > java coding  
 
-
-- 🌐 个人博客：[fengzijk](https://fengzijk.cn/)
-- 📫 联系邮箱：guozhifengvip@163.com
-
-
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=fengzijk&count_private=true&show_icons=true&theme=tokyonight&line_height=40">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=fengzijk&theme=tokyonight">
